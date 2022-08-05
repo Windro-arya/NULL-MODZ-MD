@@ -1,8 +1,8 @@
 {
   "name": "AMRU-SER-MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/AMRUSIR/AMRU-SER-MD",
-  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "repository": "https://github.com/Windro-arya/NULL-MODZ-MD",
+  "logo": "/xeonmedia/theme/windro.png",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
