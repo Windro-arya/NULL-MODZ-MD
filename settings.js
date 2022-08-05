@@ -66,17 +66,17 @@ global.ownertag = '918606413490' //ur tag number
 global.botname = 'NULL MODZ OFC' //ur bot name
 global.linkz = "" //your theme url which will be displayed on whatsapp
 global.websitex = "https://teamnullmodz.netlify.app" //ur website to be displayed
-global.botscript = 'https://github.com/AMRUSIR/AMRU-SER-MD' //script link
+global.botscript = 'https://github.com/Windro-arya/NULL-MODZ-MD' //script link
 global.reactmoji = "🙂" //ur menu react emoji
 global.themeemoji = "😈" //ur theme emoji
 global.packname = "ᑎᑌᒪᒪ ᗰOᗪᘔ /n/n/n🗿✨ " //ur sticker watermark packname
 global.author = "NULL MODZ OFC" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./XeonMedia/theme/windro.png") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/windro.png") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/windro.png") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/windro.png") //ur thumb pic
 
 //damtabase
 global.premium = ['918606413490'] //ur premium numbers
@@ -106,17 +106,17 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
+    admin: 'Ayyada nee admin allalo mwonuu....!',
+    botAdmin: 'Kop njn ee grpil admin alla...🥲',
+    owner: 'Nee owner ahno !! allalo enna pinne nadakilla mwoney...!',
+    group: 'ee command grpil upayogikk, allathe ivide allah',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!!',
+    wait: 'wait akku ipom sheri akum....:)',
+    linkm: 'Link evide, link thanne pattu !!',
+    error: 'Error, UMBI !!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
+    ban: 'Mathi kure neram ayi, poo ninne ban akki, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
@@ -133,7 +133,7 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
+global.thumb = fs.readFileSync('./XeonMedia/theme/windro.png')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
